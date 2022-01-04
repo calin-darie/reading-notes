@@ -5,7 +5,7 @@ https://www.amazon.fr/Team-Topologies-Organizing-Business-Technology/dp/19427888
 ## Team First Thinking
 
 Team is a stable group of 5 to 9 persons who work toward a shared goal as a unit.  
-Families/Group/Tribes no more than 50 people (Dunbar's number)
+Families/Group/Tribes no more than 150 people (Dunbar's number)
 
 * Use small, long-lived teams as the standard
   * Small => Max trust between members
